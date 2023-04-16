@@ -1,4 +1,4 @@
-# Brasileiros
+# Estratégia
 
 Cálculo de PRS inicial, comparativo de caso e controle
 
